@@ -1,0 +1,35 @@
+/ClassificationService/pretrained_models
+
+Interpretationservice/HELP.md
+Interpretationservice/target/
+!Interpretationservice/.mvn/wrapper/maven-wrapper.jar
+!Interpretationservice/**/src/main/**/target/
+!Interpretationservice/**/src/test/**/target/
+
+### STS ###
+Interpretationservice/.apt_generated
+Interpretationservice/.classpath
+Interpretationservice/.factorypath
+Interpretationservice/.project
+Interpretationservice/.settings
+Interpretationservice/.springBeans
+Interpretationservice/.sts4-cache
+
+### IntelliJ IDEA ###
+Interpretationservice/.idea
+Interpretationservice/*.iws
+Interpretationservice/*.iml
+Interpretationservice/*.ipr
+
+### NetBeans ###
+Interpretationservice/nbproject/private/
+Interpretationservice/nbbuild/
+Interpretationservice/dist/
+Interpretationservice/nbdist/
+Interpretationservice/.nb-gradle/
+Interpretationservice/build/
+!Interpretationservice/**/src/main/**/build/
+!Interpretationservice/**/src/test/**/build/
+
+### VS Code ###
+Interpretationservice/.vscode/

@@ -1,0 +1,12 @@
+_class,_id,alcoholContent,brewery,classNumber,country,name,type
+org.example.interpretationservice.model.Beer,663ba3b5564bbc7136561df4,5.6,Browar Czarnków,0,Polska,Noteckie na miodzie lipowym,Miodowe
+org.example.interpretationservice.model.Beer,663ba421564bbc7136561df5,5.3,Browar Konstancin,1,Polska,Konstancin pszeniczne,Pszeniczne
+org.example.interpretationservice.model.Beer,663ba484564bbc7136561df6,4.6,Browar Raduga,2,Polska,Last summer,Mango wheat
+org.example.interpretationservice.model.Beer,663ba4dc564bbc7136561df7,1,Browar Kormoran,3,Polska,1 na 100,żytnie APA
+org.example.interpretationservice.model.Beer,663ba537564bbc7136561df8,4.9,Browar Kormoran,4,Polska,Jasny Bezglutenowy,jasne
+org.example.interpretationservice.model.Beer,663ba56c564bbc7136561df9,6.5,Browar Kormoran,5,Polska,Podróże Kormorana American IPA,AIPA
+org.example.interpretationservice.model.Beer,663ba591564bbc7136561dfa,5.2,Browar Kormoran,6,Polska,Kormoran Jasny,jasne
+org.example.interpretationservice.model.Beer,663ba5cf564bbc7136561dfb,4.5,Browar Kormoran,7,Polska,Kormoran Ciemny,ciemne
+org.example.interpretationservice.model.Beer,663ba60d564bbc7136561dfc,1,Browar Kormoran,8,Polska,1 na 100 Pigwowiec i Miód,lite friut&honey ale
+org.example.interpretationservice.model.Beer,663ba641564bbc7136561dfd,7.4,Browar Kormoran,9,Polska,Krzepkie,lager jasny
+org.example.interpretationservice.model.Beer,663ba664564bbc7136561dfe,5.2,Browar Kormoran,10,Polska,Warmińskie Rewolucje,lager jasny
